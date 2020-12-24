@@ -1,9 +1,13 @@
-# Jack O' Lantern
+= There Came a Knock
 
-This is a ghost story I'm tightening up. I am open and thankful for any feedback, critique or editing I can find.
+(formerly Jack O'Lantern)
 
-This story among several more will be published into Gemini (protocol) Space. There needs to be new content, as it is pretty bare but nevertheless an exhuberent community. 
+This is a short ghost story.
 
-A decidedly non-commercial network protocol. I like it. And I really could use some help winnowing out the crap in my writing before publishing it via Gemini.
+I am working on a collection to be released into Gemini Space (aka that protocol somewhere between Gopher and the WWW).
 
-Cheers.
+If anyone feels like adding their eyes to this work I would appreciate it. I consider self published prose without feedback from readers and editors to be generally weak. Sure I can publish as-is but it could be so much better. Takers?
+
+Thank you
+Warren R.Smith
+
